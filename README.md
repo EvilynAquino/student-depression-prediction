@@ -70,9 +70,4 @@ Ou clique direto no botão (atualizar o link após subir o repo):
 
 ## Declaração de uso de ferramentas de inteligência artificial
 
-*(preencher conforme o uso real, por exemplo:)*
 
-- **Ferramenta utilizada:** Claude (Anthropic)
-- **Finalidade:** apoio na revisão de código e esclarecimento de dúvidas técnicas ao longo do desenvolvimento
-- **Parte do trabalho em que foi utilizada:** *(especificar, por exemplo: organização inicial do repositório e revisão pontual de trechos de código)*
-- **Forma de verificação:** todo código e conteúdo foi executado e revisado pelos integrantes antes de ser incorporado ao notebook final
