@@ -10,7 +10,7 @@ Prever se um estudante apresenta indícios de depressão a partir de caracterís
 
 | Nome | GitHub | Parte |
 |---|---|---|
-| — | @seu_usuario | Dados e Análise Exploratória |
+| — | @EvilynAquino | Dados e Análise Exploratória |
 | — | @Mat-Macedo | Pré-processamento e Separação dos dados |
 | — | @luanorama | Modelagem e Avaliação |
 
@@ -60,7 +60,7 @@ Ou clique direto no botão (atualizar o link após subir o repo):
 
 | Integrante | Contribuição |
 |---|---|
-| @seu_usuario | Seções 5.1, 5.2, 5.3 (dados e análise exploratória) |
+| @EvilynAquino | Seções 5.1, 5.2, 5.3 (dados e análise exploratória) |
 | @Mat-Macedo | Seções 5.4, 5.5 (pré-processamento e separação dos dados) |
 | @luanorama | Seções 5.6, 5.7 (modelagem e avaliação) |
 
