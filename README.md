@@ -70,4 +70,6 @@ Ou clique direto no botão (atualizar o link após subir o repo):
 
 ## Declaração de uso de ferramentas de inteligência artificial
 
+*(inserir declaração ao longo do projeto!)*
+
 
