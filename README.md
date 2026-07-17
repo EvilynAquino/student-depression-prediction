@@ -10,9 +10,9 @@ Prever se um estudante apresenta indícios de depressão a partir de caracterís
 
 | Nome | GitHub | Parte |
 |---|---|---|
-| — | @EvilynAquino | Dados e Análise Exploratória |
-| — | @Mat-Macedo | Pré-processamento e Separação dos dados |
-| — | @luanorama | Modelagem e Avaliação |
+| Matheus | @Mat-Macedo | Dados e Análise Exploratória |
+| Luan | @luanorama | Pré-processamento e Separação dos dados |
+| Evilyn | @EvilynAquino | Modelagem e Avaliação |
 
 ## Fonte dos dados
 
@@ -42,7 +42,7 @@ O dataset está disponível em `data/student_depression_dataset.csv` neste repos
 
 Ou clique direto no botão (atualizar o link após subir o repo):
 
-`https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/notebook.ipynb`
+`https://colab.research.google.com/github/EvilynAquino/student-depression-prediction/blob/main/notebook.ipynb`
 
 ## Modelos utilizados
 
@@ -60,9 +60,9 @@ Ou clique direto no botão (atualizar o link após subir o repo):
 
 | Integrante | Contribuição |
 |---|---|
-| @EvilynAquino | Seções 5.1, 5.2, 5.3 (dados e análise exploratória) |
-| @Mat-Macedo | Seções 5.4, 5.5 (pré-processamento e separação dos dados) |
-| @luanorama | Seções 5.6, 5.7 (modelagem e avaliação) |
+| Matheus (@Mat-Macedo) | Seções 5.1, 5.2, 5.3 (dados e análise exploratória) |
+| Luan (@luanorama) | Seções 5.4, 5.5 (pré-processamento e separação dos dados) |
+| Evilyn (@EvilynAquino) | Seções 5.6, 5.7 (modelagem e avaliação) |
 
 ## Link do vídeo
 
@@ -73,6 +73,6 @@ Ou clique direto no botão (atualizar o link após subir o repo):
 *(preencher conforme o uso real, por exemplo:)*
 
 - **Ferramenta utilizada:** Claude (Anthropic)
-- **Finalidade:** apoio na estruturação do notebook, revisão de código e organização do projeto
-- **Parte do trabalho em que foi utilizada:** *(especificar)*
-- **Forma de verificação:** todo código gerado foi executado e revisado pelos integrantes antes de ser incorporado ao notebook final
+- **Finalidade:** apoio na revisão de código e esclarecimento de dúvidas técnicas ao longo do desenvolvimento
+- **Parte do trabalho em que foi utilizada:** *(especificar, por exemplo: organização inicial do repositório e revisão pontual de trechos de código)*
+- **Forma de verificação:** todo código e conteúdo foi executado e revisado pelos integrantes antes de ser incorporado ao notebook final
