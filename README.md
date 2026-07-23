@@ -30,7 +30,7 @@ O dataset está disponível em `data/student_depression_dataset.csv` neste repos
 .
 ├── README.md
 ├── notebook.ipynb
-├── projeto_completo.py       (versão em script único do pipeline, para execução fora do notebook)
+├── codigo_projeto.py       
 └── data/
     └── student_depression_dataset.csv
 ```
