@@ -72,7 +72,7 @@ O atributo mais relevante para o modelo foi `Have you ever had suicidal thoughts
 
 ## Link do vídeo
 
-*(inserir link do vídeo aqui)*
+(https://youtu.be/zD8zPC_laDg?si=1rgoRmP-6iOKPRVC)
 
 ## Declaração de uso de ferramentas de inteligência artificial
 
