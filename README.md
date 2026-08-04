@@ -70,10 +70,6 @@ O atributo mais relevante para o modelo foi `Have you ever had suicidal thoughts
 | Luan (@luanorama) | Seções 1.4, 1.5 (pré-processamento e separação dos dados) |
 | Evilyn (@EvilynAquino) | Seções 1.6, 1.7 (modelagem e avaliação) |
 
-## Link do vídeo
-
-(https://youtu.be/zD8zPC_laDg?si=1rgoRmP-6iOKPRVC)
-
 ## Declaração de uso de ferramentas de inteligência artificial
 
 - **Ferramenta utilizada:** Claude (Anthropic)
